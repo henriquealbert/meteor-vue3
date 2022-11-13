@@ -1,11 +1,8 @@
 <script setup>
-import Hello from './Hello.vue'
-import Info from './Info.vue'
-
+import AppMenu from './AppMenu.vue'
 </script>
 
 <template>
-  <h1>Welcome to Meteor!</h1>
-  <Hello />
-  <Info />
+  <AppMenu />
+  <router-view />
 </template>
