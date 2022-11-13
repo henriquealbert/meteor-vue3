@@ -22,4 +22,4 @@ This is a simple example of how to use Vue3 with Meteor.
 
 - [x] Create a simple example of how to use Vue3 with Meteor using Vite.
 - [x] Add Vue Router.
-- [ ] Add Tailwind CSS.
+- [x] Add Tailwind CSS. [Tailwind Branch](https://github.com/henriquealbert/meteor-vue3/tree/with-tailwind)
