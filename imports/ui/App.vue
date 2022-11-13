@@ -3,6 +3,8 @@ import AppMenu from './AppMenu.vue'
 </script>
 
 <template>
-  <AppMenu />
-  <router-view />
+  <div class="p-8">
+    <AppMenu />
+    <router-view />
+  </div>
 </template>
